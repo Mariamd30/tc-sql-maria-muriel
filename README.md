@@ -5,6 +5,7 @@ Mystery y diseño e implementación de una base de datos normalizada en BigQuery
 **Techmuriel**, un e-commerce ficticio de electrónica.
 
 ## Estructura del repositorio
+```
 tc-sql-maria-muriel/
 ├── parte_1_sql_murder_mystery/
 │ ├── data/sql-murder-mystery.db
@@ -21,7 +22,7 @@ tc-sql-maria-muriel/
 ├── .gitignore
 ├── README.md
 └── requirements.txt
-
+```
 
 ## Setup
 
